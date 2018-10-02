@@ -2,7 +2,7 @@
  
 $dataPoints = array(
 	array("label"=> "創", "y"=> 4),
-    array("label"=> "出", "y"=> 1),
+    array("label"=> "出", "y"=> 3),
     array("label"=> "利", "y"=> 2),
     array("label"=> "民", "y"=> 1),
     array("label"=> "申", "y"=> 1),
