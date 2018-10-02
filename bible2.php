@@ -69,7 +69,7 @@ print_count_bible('神');
 print_count_bible('耶穌');
 print_count_bible('聖靈');
 print_count_bible('以色列');
-print_count_bible('十字');
+print_count_bible('十字架');
 print_count_bible('愛');
 print_count_bible('流奶與蜜');
 print_count_bible('約櫃');
