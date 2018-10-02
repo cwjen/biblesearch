@@ -59,9 +59,9 @@ if ($kywd != ''){
 
 echo "<hr>";
 
-//include "chart.php";
+include "chart.php";
 
-/*
+
 echo "<br>";
 echo '<div class="a">';
 print_count_bible('耶和華');
@@ -76,7 +76,7 @@ print_count_bible('約櫃');
 //echo "</ul>";
 echo '</div>';
 echo "<br>";
-*/
+
 $result_data_for_chart ;
 
 if ( $kywd != ''){ // 如果有輸入關鍵字
