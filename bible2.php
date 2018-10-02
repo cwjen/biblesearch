@@ -59,7 +59,7 @@ if ($kywd != ''){
 
 echo "<hr>";
 
-include "chart.php";
+//include "chart.php";
 
 /*
 echo "<br>";
